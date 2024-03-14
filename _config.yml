@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Utrecht Social Science Synapse
-description: "UU's Study Association for Social and Behavioural Science Research Masters"
+title: Utrecht Synapse
+description: "UU's Study Association for Social Science Research Masters"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
@@ -47,8 +47,8 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Utrecht Social Science Synapse</h1>
-  section2: <h2>UU's Study Association for Social and Behavioural Science Research Masters</h2>
+  section1: <h1>Utrecht Synapse</h1>
+  section2: <h2>UU's Study Association for Social Science Research Masters</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
