@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: Utrecht Social Science Synapse
+description: "UU's Study Association for Social and Behavioural Science Research Masters"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
